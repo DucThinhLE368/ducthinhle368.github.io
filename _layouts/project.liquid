@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="post">
+  <div class="project-layout">
+    <div class="project-sidebar">
+      <nav class="project-nav" aria-label="Other projects">
+        <ul class="toc-list">
+          {% assign sorted_projects = site.projects | sort: 'importance' %}
+          {% for project in sorted_projects %}
+            <li class="toc-list-item">
+              {% if project.url == page.url %}
+                <span class="toc-link is-active-link">{{ project.title }}</span>
+              {% else %}
+                <a class="toc-link" href="{{ project.url | relative_url }}">{{ project.title }}</a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+    <div class="project-main">
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <p class="post-description">{{ page.description }}</p>
+      </header>
+
+      <article>
+        {{ content }}
+      </article>
+    </div>
+  </div>
+
+  {% if site.plugins contains 'al_comments' %}
+    {% include plugins/al_comments.liquid %}
+  {% endif %}
+</div>

@@ -4,7 +4,7 @@ cv:
   email: thinhld@tlu.edu.vn
   location: Hanoi, Vietnam
   image: ""
-  summary: Lecturer and researcher in Control Engineering and Automation at Thuyloi University, working on nonlinear and fault-tolerant control for electromechanical systems, electric vehicles, and renewable energy applications.
+  summary: Lecturer at Thuyloi University, teaching in the Control Engineering and Automation and Robot Engineering and Intelligent Control programs, and researcher working on nonlinear and fault-tolerant control for electromechanical systems, electric vehicles, and renewable energy applications.
 
   social_networks:
     []
@@ -15,10 +15,10 @@ cv:
     #   username: your-username
 
   address:
-    street: ""
+    street:
     city: Hanoi
-    region: ""
-    postalCode: "100000"
+    region:
+    postalCode: "100000, Vietnam"
     countryCode: VN
 
   sections:
@@ -31,7 +31,7 @@ cv:
         end_date: 2023-11
         score: "3.72/4.00"
         highlights:
-          - "Thesis: Nonlinear Observer-based Motion Control of Electric Vehicles"
+          - "Thesis: [Nonlinear Observer-based Motion Control of Electric Vehicles](https://drive.google.com/file/d/1KkMFx_bkYCsve8jOUBX3HWw70492cn42/view)"
 
       - institution: Hanoi University of Science and Technology (HUST)
         location: Hanoi, Vietnam
@@ -40,7 +40,7 @@ cv:
         start_date: 2016-09
         end_date: 2021-08
         highlights:
-          - "Thesis: Disturbance Observer-based Backstepping for Electric Vehicles Motion Control"
+          - "Thesis: [Disturbance Observer-based Backstepping for Electric Vehicles Motion Control](https://drive.google.com/file/d/1QPP4NbcwcRGMcYZ2wJfvnQi265Zf5pc0/view)"
 
     Experience:
       - company: Thuyloi University
@@ -49,13 +49,13 @@ cv:
         start_date: 2024
         summary: Grant writing & project management, research & technical development, and teaching.
         highlights:
-          - "Developed early-stage research ideas into fundable proposal concepts for two approved grants: an industry-funded VINIF project on motion control of multi-unmanned vehicles ($152K; started Dec. 2025) and a publicly funded NAFOSTED national research grant on safety control for multi-shaft systems ($68K; started Apr. 2025)."
+          - "Developed early-stage research ideas into fundable proposal concepts for two approved grants: an industry-funded [VINIF project](https://vinif.org/annual/vinif-2025-da096-phat-trien-phuong-tien-tu-hanh-tich-hop-canh-tay-robot-phuc-vu-tham-do-moi-truong-duoi-long-dat/) on motion control of multi-unmanned vehicles (<strong class=\"cv-highlight\">USD 152K; started Dec. 2025</strong>) and a <strong class=\"cv-highlight\">publicly funded NAFOSTED national research grant</strong> on safety control for multi-shaft systems (<strong class=\"cv-highlight\">USD 68K; started Apr. 2025</strong>)."
           - "Prepared full grant application packages, including proposal narratives, technical work plans, itemized budgets, vendor quotations, and supporting documents for external funding evaluation."
-          - "Served as scientific secretary after project approval, coordinating team communication, tracking milestones and deliverables, organizing technical documents, and supporting PI-level progress reporting."
-          - "Acted as a key research team member during project implementation, developing technical ideas, conducting literature review and method design, drafting manuscripts, and preparing responses to peer-review comments."
-          - "Published 15 peer-reviewed international journal papers over a two-year period, including ISA Transactions, IEEE Access, and International Journal of Robust and Nonlinear Control, on motion control for electromechanical systems."
-          - "Second inventor of a pending Vietnamese patent application: Centrifugal Air Compressor Driven by an Electric Motor Using Conical Active Magnetic Bearings, Application No. 1-2025-08826."
-          - "Developed fault-tolerant control strategies for nonlinear systems (electric drives, electric cars, electromechanical systems, and renewable energy) with input saturation and time delays, ensuring prescribed-time convergence, bounded tracking errors, and robustness to actuator faults and disturbances."
+          - "Served as <strong class=\"cv-highlight\">scientific secretary</strong> after project approval, coordinating team communication, tracking milestones and deliverables, organizing technical documents, and supporting PI-level progress reporting."
+          - "Acted as a <strong class=\"cv-highlight\">key research team member</strong> during project implementation, developing technical ideas, conducting literature review and method design, drafting manuscripts, and preparing responses to peer-review comments."
+          - "Published <strong class=\"cv-highlight\">15 peer-reviewed international journal papers</strong> over a two-year period, including ISA Transactions, IEEE Access, and International Journal of Robust and Nonlinear Control, on motion control for electromechanical systems."
+          - "Second inventor of a pending <strong class=\"cv-highlight\">Vietnamese patent application</strong>: Centrifugal Air Compressor Driven by an Electric Motor Using Conical Active Magnetic Bearings, [Application No. 1-2025-08826](https://wipopublish.ipvietnam.gov.vn/wopublish-search/public/detail/patents?id=VN1202508826)."
+          - "Developed fault-tolerant control strategies for nonlinear systems (<strong class=\"cv-highlight\">electric drives, electric cars, electromechanical systems, and renewable energy</strong>) with input saturation and time delays, ensuring prescribed-time convergence, bounded tracking errors, and robustness to actuator faults and disturbances."
           - "Teaching: Motion Control, Applied Programming, Actuators and Control, Swarm Robotics and Control."
 
       - company: Hanoi University of Science and Technology (HUST)
@@ -81,7 +81,7 @@ cv:
           - "Ministry of Education and Training: Won 02 Second Prizes at the \"Science and Technology Award for Students in Higher Education Institutions\" (2023, 2025)."
           - "Assisted faculty members in teaching undergraduate courses, including Pneumatic and Hydraulic Automation Elements, Electrical Drives, and Graduation Projects."
 
-      - company: IEEE Transactions on Transportation Electrification, ISA Transactions, Computers and Electrical Engineering, Scientific Reports, Nonlinear Dynamics, Electrical Engineering, Asian Journal of Control, Automatika
+      - company: IEEE Transactions on Transportation Electrification, ISA Transactions, Computers and Electrical Engineering, Scientific Reports, Nonlinear Dynamics, Electrical Engineering, Asian Journal of Control, Automatika, Robotics and Autonomous Systems, International Journal of Robust and Nonlinear Control
         position: Peer Reviewer
         start_date: 2022
         summary: Reviewer for the listed international journals.
@@ -103,7 +103,7 @@ cv:
         awarder: Hanoi University of Science and Technology (HUST), Vietnam
         date: 2021
 
-    Publications:
+    Selected Publications:
       - title: A sensorless anti-windup speed control approach to axial gap bearingless motors with nonlinear lumped mismatched disturbance observers
         authors:
           - Duc Thinh Le
@@ -192,6 +192,40 @@ cv:
         publisher: Asian Journal of Control
         releaseDate: 2025
 
+    Projects:
+      - name: Development of unmanned subterranean vehicles with an onboard manipulator for underground environment exploration
+        summary: "Project No. VINIF.2025.DA096, funded by Vingroup Innovation Foundation (VINIF)."
+        highlights:
+          - "Position: Scientific Secretary"
+        start_date: 2025-12
+
+      - name: "Safety control strategies for multi-shaft systems with uncertainties and disturbances: Artificial Intelligence Approach"
+        summary: "Project No. 107.01-2024.19, funded by the National Foundation for Science and Technology Development (NAFOSTED), the Ministry of Science and Technology of Vietnam."
+        highlights:
+          - "Position: Research Team Member"
+        start_date: 2025-04
+
+      - name: Research on Control of Non-Contact Drive Systems
+        summary: "Project No. T2023-PC-029, funded by Hanoi University of Science and Technology."
+        highlights:
+          - "Position: Research Team Member"
+        start_date: 2023-10
+        end_date: 2025-09
+
+      - name: Application of nonlinear controllers and observers in motion control of electric vehicles
+        summary: "Project No. T2022-PC-003, funded by Hanoi University of Science and Technology."
+        highlights:
+          - "Position: Research Team Member"
+        start_date: 2022-11
+        end_date: 2024-04
+
+      - name: Control design for multi-shaft with web materials linkage systems
+        summary: "Project No. T2021-PC-001, funded by Hanoi University of Science and Technology."
+        highlights:
+          - "Position: Research Team Member"
+        start_date: 2021-06
+        end_date: 2022-09
+
     Skills:
       - name: Validation & Experimental Methods
         keywords: "MIL, PIL, HIL, MATLAB, PLECS, CarSim, PX4 Autopilot, Typhoon HIL, dSPACE, TI C2000 MCUs, Pixhawk"
@@ -207,4 +241,4 @@ cv:
         reference: "Head of Motion Control and Applied Robotics Laboratory, HUST, Vietnam. Supervisor of the undergraduate and master programs."
 
       - name: Associate Professor Danh Huy Nguyen
-        reference: "Chairman of the Electrical and Electronic Engineering School Council, HUST, Vietnam. Co-supervisor of the master programs."
+        reference: "Chairman of the Electrical and Electronic Engineering School Council, HUST, Vietnam."

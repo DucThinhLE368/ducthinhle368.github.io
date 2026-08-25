@@ -2,11 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Funded research projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -24,7 +23,8 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% assign countdown_index = sorted_projects.size | minus: forloop.index | plus: 1 %}
+      {% include projects_horizontal.liquid index=countdown_index %}
     {% endfor %}
     </div>
   </div>
@@ -50,7 +50,8 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% assign countdown_index = sorted_projects.size | minus: forloop.index | plus: 1 %}
+      {% include projects_horizontal.liquid index=countdown_index %}
     {% endfor %}
     </div>
   </div>
