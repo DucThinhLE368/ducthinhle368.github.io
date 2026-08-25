@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at Thuyloi University.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+<!-- To show a Google Calendar with class schedules, set calendar: true above and add:
+{% include calendar.liquid calendar_id='your_real_calendar_id@group.calendar.google.com' timezone='Asia/Ho_Chi_Minh' %}
+-->
 
 {% include courses.liquid %}
