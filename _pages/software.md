@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /software/
-title: software
+title: Technical Skills
 description: Programming languages, tools, and hardware-in-the-loop experience.
 nav: true
 nav_order: 5
