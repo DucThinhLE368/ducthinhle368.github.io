@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/
 title: activities
 description: Professional service and academic activities.
-nav: true
+nav: false
 nav_order: 10
 toc:
   sidebar: left
@@ -15,16 +15,16 @@ toc:
 
 Reviewer for the following international journals:
 
-- IEEE Transactions on Transportation Electrification
 - ISA Transactions
+- IEEE Transactions on Transportation Electrification
+- Nonlinear Dynamics
+- Robotics and Autonomous Systems
 - Computers and Electrical Engineering
 - Scientific Reports
-- Nonlinear Dynamics
-- Electrical Engineering
-- Asian Journal of Control
-- Automatika
-- Robotics and Autonomous Systems
 - International Journal of Robust and Nonlinear Control
+- Asian Journal of Control
+- Electrical Engineering
+- Automatika
 
 ## Teaching Assistant, Hanoi University of Science and Technology (HUST)
 

@@ -55,7 +55,7 @@
   year              = {2026},
   abstract          = {In recent years, the railway transportation sector has experienced significant growth, playing an important role in modern transportation systems. Large-scale freight trains often require multiple locomotives to provide sufficient traction during operation. A major challenge in freight train control is to ensure that the wagons follow the predefined reference velocity, especially under the influence of unknown external disturbances and varying freight loads across different trips. This paper proposes an adaptive control strategy without velocity sensors for freight trains with multiple electric locomotives. The control strategy is developed based on the non-recursive control framework with time-varying parameters. The elimination of velocity sensors is achieved through a high-gain observer (HGO), which enables accurate estimation of the velocity tracking error of the electric locomotives. The position and velocity tracking …},
   google_scholar_id = {r0BpntZqJG4C},
-  preview           = {heavy-haul-freight-trains.png},
+  preview           = {adaptive-velocity-sensorless-multi-locomotive.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -69,7 +69,7 @@
   publisher         = {Elsevier},
   abstract          = {Active Magnetic Bearings are electromagnetic systems that support a rotating shaft without mechanical contact by generating attractive forces through closed-loop controlled electromagnets. In conventional five-degree-of-freedom rotor systems, levitation is achieved using two radial bearings and a separate axial bearing. Conical active magnetic bearings (CAMBs) provide an advanced alternative in which radial and axial forces are generated simultaneously, eliminating the need for an additional axial bearing. This paper investigates a CAMB integrated into a canned motor pump to remove both mechanical bearings and shaft seals. The resulting electro-hydrodynamic system exhibits strong coupling between rotor dynamics and hydrodynamic disturbances, which complicates control design. To address this challenge, a fixed-time control framework is proposed, combining a fixed-time sliding mode controller …},
   google_scholar_id = {ns9cj8rnVeAC},
-  preview           = {conical-active-magnetic-bearing.png},
+  preview           = {fixed-time-conical-active-magnetic-bearing.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -85,7 +85,7 @@
   abstract          = {or autonomous railway vehicles (ARVs), factors such as external disturbances, model uncertainties, actuator saturation, and input time delays negatively impact control performance. This paper proposes a new robust predefined-time tracking control strategy for ARVs employing multiple electric locomotives under such adverse conditions. First, an output constraint function (OCF) is designed to ensure that the position tracking errors of the locomotives remain within allowable bounds. Then, a predefined-time disturbance observer (PdTDO) is developed based on a transformation of the OCF to estimate the total unknown disturbances. Leveraging the results from the OCF and PdTDO, a predefined-time sliding mode controller (PdTSMC) is constructed. The predefined-time stability of the proposed control system is proven using the Lyapunov method, ensuring that all closed-loop system states converge to the …},
   google_scholar_id = {maZDTaKrznsC},
   selected          = {true},
-  preview           = {heavy-haul-freight-trains.png},
+  preview           = {robust-predefined-time-railway-vehicles.png},
   keywords          = {lead-author},
   note              = {<span class="author-role role-corresponding">Corresponding author.</span>},
   role              = {corresponding}
@@ -120,7 +120,7 @@
   abstract          = {This paper proposes a robust fixed-time sliding mode controller with a prescribed performance function (RFTSM-PPC) for heavy haul freight trains (HhFT) employing multiple electric locomotives. First, a fixed-time extended state observer (FxTESO) is designed to estimate the velocities of the locomotives and the lumped disturbance component, which represents model uncertainties, external disturbances, as well as malfunctions in the actuators, including actuator faults, input saturation, and input time delay. Then, a prescribed performance function (PPF) is constructed to ensure that the tracking error is confined within predefined bounds. Based on the outputs of the FxTESO and PPF, a fixed-time sliding mode controller is developed, incorporating a transition function to eliminate singularities and an auxiliary control component to compensate for the estimation error from the FxTESO. Finally, the particle swarm …},
   google_scholar_id = {R3hNpaxXUhUC},
   selected          = {true},
-  preview           = {heavy-haul-freight-trains.png},
+  preview           = {heavy-haul-freight-trains-multi-locomotive.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -134,7 +134,7 @@
   publisher         = {Elsevier},
   abstract          = {Roll-to-Roll (R2R) systems operating in complex manufacturing industries encounter challenges from inherent system factors like model uncertainty or external interference. These factors directly lead to a significant reduction in productivity and output quality of the system, thereby causing great economic losses. In response to the growing demand for consistently high performance in industrial R2R processing, we propose a finite-time integral terminal sliding mode control integrated with a finite-time extended state observer. The proposed controller achieves consistently high tracking performance of transport speed and material surface tension of the system owing to the integral terminal sliding mode control method. Meanwhile, the extended state observer is integrated with three component observers to address the dual estimation task for velocity-based dynamic models of unwinder roll, active guide roll, and …},
   google_scholar_id = {L8Ckcad2t8MC},
-  preview           = {roll-to-roll-system.png},
+  preview           = {roll-to-roll-finite-time-velocity-sensorless.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -263,7 +263,7 @@
   publisher         = {IOP Publishing},
   abstract          = {This study presents an advanced active surge controller designed to regulate tip clearance in a high-speed centrifugal compressor by utilizing cone-shaped active magnetic bearings (CAMBs). The CAMBs offer a more optimized geometric structure than traditional AMBs, using conical electromagnets that generate force components in both axial and radial directions. This configuration eliminates the need for a bulky thrust bearing typically required in conventional systems. However, CAMBs inherently introduce coupling elements, which complicate modeling and control strategies. To address this, the paper proposes a co-simulation framework that integrates finite element modeling (FEM) and MATLAB/Simulink. Specifically, Simcenter Magnet FEM captures high-fidelity mechatronic interactions in CAMBs, while Simulink implements control algorithms. This setup enables precise modeling while overcoming control …},
   google_scholar_id = {mB3voiENLucC},
-  preview           = {conical-active-magnetic-bearing.png},
+  preview           = {tip-clearance-control-centrifugal-compressor.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -281,7 +281,7 @@
   abstract          = {In this study, a control system for a permanent magnet axial gap bearingless motor (AGBM) with a non-salient pole rotor is given using a non-linear disturbance observer-based robust control. In the proposed control strategy, low-pass filters are integrated into each virtual control input, and a powerful backstepping controller with integrated tracking error action is utilized. An integral backstepping control (IBSP) integrator is added to improve the system’s robustness to parameter uncertainties and external disturbances. The low pass filter of dynamic surface control (DSC) based on an integral backstepping algorithm is adopted, from which the proposed control strategy improves steady-state accuracy and eliminates the derivative explosion phenomenon. Furthermore, non-linear lumped disturbance observers (NLDO) are used for axial displacement and rotation speed control loop to improve system stability by …},
   google_scholar_id = {KlAtU1dfN6UC},
   selected          = {true},
-  preview           = {axial-gap-bearingless-motor.png},
+  preview           = {axial-gap-bearingless-motor-nldo-control.png},
   keywords          = {lead-author},
   note              = {<span class="author-role role-first">First author.</span>},
   role              = {first}
@@ -359,7 +359,7 @@
   year              = {2023},
   abstract          = {Due to the nonlinearities and dynamical properties of multisection web machines, it is essential to accomplish an appropriate mathematical model as well as design a compatible control scheme. A generalized fully driven web winding model is constructed taking unpredictable changes of moment of inertia and radius of rolls into consideration. In this article, a fractional-order sliding surface algorithm-based hierarchical control frame is applied to multisection web machines to deal with matched and mismatched uncertainties and disturbances. In addition, the Radius Basis Function neural network is deployed to estimate necessary system dynamics and the proposed control scheme taking advantage of first-order low-pass filters to produce virtual control signals without complicated calculation and attenuate the explosion of terms phenomenon. Finally, the semi-global stability of the entire system is determined using …},
   google_scholar_id = {eQOLeE2rZwMC},
-  preview           = {roll-to-roll-system.png},
+  preview           = {multisection-web-machines-hierarchical-control.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -376,7 +376,7 @@
   publisher         = {MDPI},
   abstract          = {Active magnetic bearings (AMBs) are electromagnetic mechanism systems in which non-contact bearings support a rotating shaft using attractive forces generated by electromagnets through closed-loop control. For complete support of a five degree of freedom (DOF) rotor system, most AMB structures include two radial actuators and one for the axial direction. Conical active magnetic bearings (CAMBs) is one of the development directions of conventional magnetic bearings in which the requirement of the axial bearing can be eliminated. In this paper, we propose a structure with a CAMB integrated into a canned motor pump to eliminate the need for mechanical bearings and shaft seals. However, this system necessitates a more complicated control strategy due to a significant coupling effect between rotor motion and hydrodynamic disturbances. This paper presents a fractional order active disturbance rejection control (FOADRC) including a fractional order extend state observer (FOESO) and a proportional derivative controller (PD) to track and reject lumped disturbances actively. The proposed controller achieves better performance than the integer-type ADRC and traditional PID controller. The control performance of the proposed FOADRC is illustrated in terms of very good disturbance rejection capability that is demonstrated through MATLAB/Simulink simulation results.},
   google_scholar_id = {0EnyYjriUFMC},
-  preview           = {conical-active-magnetic-bearing.png},
+  preview           = {fractional-order-adrc-canned-motor-camb-pump.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -424,7 +424,7 @@
   publisher         = {IEEE},
   abstract          = {This paper presents a backstepping sliding mode control with reaching law based on an extended state observer for tracking control of a quadrotor unmanned aerial vehicle (UAV) under external disturbances. Firstly, a six-degree-of-freedom quadrotor UAV model with disturbances is given. Secondly, the cascade control system is proposed with the Backstepping Sliding Mode controller to track the desired trajectory command under parameter uncertainties. Thirdly, the extended state observer is designed to estimate the external disturbances and rate of the states of the quadrotor UAV to reduce the sensor and increase robustness. The stability of the system is demonstrated by Lyapunov theory and the simulation results via Matlab/Simulink environment.},
   google_scholar_id = {3fE2CSJIrl8C},
-  preview           = {uav-quadrotor.png},
+  preview           = {quadrotor-eso-bsmc-trajectory-tracking.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -567,7 +567,7 @@
   publisher         = {Springer International Publishing},
   abstract          = {The suspension system in a car plays an important role in ride comfort, road holding, and ride safety, as it transmits all forces from the road to the vehicle body. The dynamics of the suspension system not only influence considerably the handling capabilities of the car but also prevent physical fatigue of driver and passengers and reduce the rate of fatality in traffic accidents. This paper concerns with an active suspension system in a half-car model, if we consider the left and right side of the car is symmetrical. We proposed a backstepping controller for this system with a reference trajectory which improves the ride comfort of the people sitting in the car. The system’s zero dynamics are mathematically proved. Control quality is validated by simulations in different scenarios and compared to the passive suspension system in MATLAB/Simulink.},
   google_scholar_id = {_FxGoFyzp5QC},
-  preview           = {active-suspension.png},
+  preview           = {backstepping-sliding-mode-half-car-suspension.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }
@@ -629,7 +629,7 @@
   publisher         = {Springer, Cham},
   abstract          = {The paper proposes a control strategy using integral backstepping control for an axial flux permanent motor. Filters are integrated into each control design step to eliminate tracking errors and undesirable effects. Moreover, the controller needs to reduce the effect of load and disturbances, and the high-gain observer is performed to estimate the uncertainty components of the control system. As a result, the speed trajectory can be more effectively held at high speed and medium speed. Finally, the simulation results show that the proposed control system can obtain the prescribed output tracking transient performance and robustness for the system uncertainties.},
   google_scholar_id = {qjMakFHDy7sC},
-  preview           = {axial-gap-bearingless-motor.png},
+  preview           = {nonlinear-control-axial-gap-magnetic-bearing-motors.png},
   note              = {<span class="author-role role-co">Co-author.</span>},
   role              = {co}
 }

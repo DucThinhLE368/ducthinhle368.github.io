@@ -4,7 +4,7 @@ permalink: /software/
 title: software
 description: Programming languages, tools, and hardware-in-the-loop experience.
 nav: true
-nav_order: 11
+nav_order: 5
 toc:
   sidebar: left
 ---

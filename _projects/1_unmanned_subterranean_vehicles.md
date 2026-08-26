@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Unmanned Subterranean Vehicles with Onboard Manipulator
-description: VINIF-funded project on fixed-time, fault-tolerant motion control for multi-unmanned vehicles with an onboard manipulator for underground exploration
+description: VINIF-funded project on six-wheeled unmanned subterranean vehicles with an onboard manipulator, robust guidance-and-control, and 3D underground mapping for hazardous mine exploration
 img: assets/img/vinif-subterranean-vehicle.png
 category: research
 importance: 1
@@ -20,7 +20,7 @@ role: Scientific Secretary
 - **Announcement:** [VINIF project page](https://vinif.org/annual/vinif-2025-da096-phat-trien-phuong-tien-tu-hanh-tich-hop-canh-tay-robot-phuc-vu-tham-do-moi-truong-duoi-long-dat/)
 - **Patent:** [Self-Balancing Electric Wheelchair System Integrated with Piezoelectric Sensors](/patents/#self-balancing-electric-wheelchair-system-integrated-with-piezoelectric-sensors)
 
-This industry-funded project develops fixed-time, fault-tolerant motion control strategies for multi-unmanned vehicles equipped with an onboard manipulator, intended for exploring underground environments, building on the team's related work in high-speed trajectory tracking, multi-locomotive velocity control, and active suspension control. As scientific secretary, I coordinate team communication, track milestones and deliverables, and support technical documentation and progress reporting alongside the PI.
+This industry-funded project designs and fabricates six-wheeled unmanned subterranean vehicles (USVs) with an onboard manipulator, a 6WD/6WS rocker-bogie guidance-and-control architecture, and a real-time 3D mapping and wireless sensor network for autonomous, fault-tolerant exploration of hazardous, GPS-denied underground environments. As scientific secretary, I coordinate team communication, track milestones and deliverables, and support technical documentation and progress reporting alongside the PI.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">

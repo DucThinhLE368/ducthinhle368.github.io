@@ -4,7 +4,7 @@ permalink: /references/
 title: references
 description: Academic references and supervisors.
 nav: true
-nav_order: 7
+nav_order: 6
 
 profiles:
   - content: ref_tung_lam_nguyen.md

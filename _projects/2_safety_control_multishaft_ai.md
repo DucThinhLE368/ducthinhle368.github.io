@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Safety Control for Multi-Shaft Systems: An AI Approach"
-description: NAFOSTED national research grant on finite/fixed-time, fault-tolerant control for multi-shaft roll-to-roll systems under uncertainties and disturbances
+description: NAFOSTED national research grant on output-constrained, finite-time, AI/Koopman-assisted control for multi-shaft drive systems under model uncertainties and disturbances
 img: assets/img/nafosted-multishaft-ai.png
 category: research
 importance: 2
@@ -18,7 +18,7 @@ role: Research Team Member
 - **Project number:** 107.01-2024.19
 - **Role:** Research Team Member
 
-This publicly funded national research grant investigates AI-assisted, robust control strategies for multi-shaft systems — including roll-to-roll (web handling) systems — operating under model uncertainties and external disturbances, with an emphasis on safety guarantees, fault tolerance, and finite/fixed-time convergence.
+This publicly funded national research grant develops output-constrained, finite-time control strategies for multi-shaft drive systems under model uncertainties and disturbances, combining barrier Lyapunov functions, neural-network-based disturbance estimation, and Koopman-operator-assisted intelligent control, with stability analyzed via Lyapunov theory and performance verified on edge-computing hardware.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
