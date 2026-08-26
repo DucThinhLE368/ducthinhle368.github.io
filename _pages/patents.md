@@ -36,7 +36,7 @@ The invention relates to a centrifugal air compressor driven by an electric moto
 **Inventors**
 
 - Danh Huy Nguyen — Hanoi University of Science and Technology
-- <strong class="cv-highlight">Duc Thinh Le</strong> — Thuyloi University (<span class="author-role role-corresponding">Second Inventor</span>)
+- <strong class="cv-highlight">Duc Thinh Le</strong> — Thuyloi University
 - Danh Giang Nguyen — Hanoi University of Civil Engineering
 - Tung Lam Nguyen — Hanoi University of Science and Technology
 
@@ -79,6 +79,6 @@ The invention relates to a multi-functional electric wheelchair integrating a li
 **Inventors**
 
 - Tung Lam Nguyen — Hanoi University of Science and Technology
-- <strong class="cv-highlight">Duc Thinh Le</strong> — Thuyloi University (<span class="author-role role-corresponding">Second Inventor</span>)
+- <strong class="cv-highlight">Duc Thinh Le</strong> — Thuyloi University
 - Danh Huy Nguyen — Hanoi University of Science and Technology
 - Duc Chinh Hoang — Hanoi University of Science and Technology
