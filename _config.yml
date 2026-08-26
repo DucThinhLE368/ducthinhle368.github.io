@@ -9,7 +9,7 @@ last_name: Le
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Lecturer at Thuyloi University, teaching in the Control Engineering and Automation and Robot Engineering and Intelligent Control programs, and researcher working on nonlinear and fault-tolerant control for electromechanical systems.
+  Lecturer at Thuyloi University, teaching in the Control Engineering and Automation program and the Robot Engineering and Intelligent Systems program, and researcher working on nonlinear and fault-tolerant control for electromechanical systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
