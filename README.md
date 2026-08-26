@@ -1,6 +1,6 @@
 # Duc Thinh Le — Personal Website
 
-Personal academic website of **Duc Thinh Le**, Lecturer in Control Engineering and Automation at Thuyloi University, Vietnam.
+Personal academic website of **Duc Thinh Le**, Lecturer in Control Engineering and Automation and Robot Engineering and Intelligent Systems at Thuyloi University, Vietnam.
 
 🔗 Live site: [ducthinhle368.github.io](https://ducthinhle368.github.io)
 
