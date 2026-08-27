@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /technical-skills/
-title: Technical Skills
+permalink: /software/
+title: software
 description: Programming languages, tools, and hardware-in-the-loop experience.
 nav: true
 nav_order: 5
