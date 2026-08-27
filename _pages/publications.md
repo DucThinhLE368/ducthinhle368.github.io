@@ -8,6 +8,8 @@ toc:
   sidebar: left
 ---
 
+See [Google Scholar](https://scholar.google.com/citations?user=CYdHeacAAAAJ&hl=en&oi=ao) for the most up-to-date information.
+
 <!-- _pages/publications.md -->
 
 <!-- Stats, computed at build time from _data/citations.yml (auto-refreshed from Google Scholar) -->

@@ -24,7 +24,6 @@ Reviewer for the following international journals:
 - International Journal of Robust and Nonlinear Control
 - Asian Journal of Control
 - Electrical Engineering
-- Automatika
 
 ## Teaching Assistant, Hanoi University of Science and Technology (HUST)
 
