@@ -19,6 +19,7 @@ role: Scientific Secretary
 - **Role:** Scientific Secretary
 - **Announcement:** [VINIF project page](https://vinif.org/annual/vinif-2025-da096-phat-trien-phuong-tien-tu-hanh-tich-hop-canh-tay-robot-phuc-vu-tham-do-moi-truong-duoi-long-dat/)
 - **Patent:** [Self-Balancing Electric Wheelchair System Integrated with Piezoelectric Sensors](/patents/#self-balancing-electric-wheelchair-system-integrated-with-piezoelectric-sensors)
+- **Accepted journal article:** [Robust Fixed-time Fault Tolerant Control for Nonlinear Full-car Active Suspension System](/publications/#le2026robustfixedtimefaulttolerant), accepted for publication in *Nonlinear Dynamics* on 8 October 2026 and acknowledging support from this project
 
 This industry-funded project designs and fabricates six-wheeled unmanned subterranean vehicles (USVs) with an onboard manipulator, a 6WD/6WS rocker-bogie guidance-and-control architecture, and a real-time 3D mapping and wireless sensor network for autonomous, fault-tolerant exploration of hazardous, GPS-denied underground environments. As scientific secretary, I coordinate team communication, track milestones and deliverables, and support technical documentation and progress reporting alongside the PI.
 
