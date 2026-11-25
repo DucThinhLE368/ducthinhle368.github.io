@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Funded research projects and submitted research proposals.
+description: Funded and accepted research projects.
 nav: true
 nav_order: 2
 horizontal: true

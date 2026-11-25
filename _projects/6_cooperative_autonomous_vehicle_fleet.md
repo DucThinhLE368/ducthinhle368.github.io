@@ -1,22 +1,25 @@
 ---
 layout: project
 title: Cooperative Control of an Autonomous Vehicle Fleet Integrated with Wireless Communication Networks Using Optimization Algorithms
-description: NAFOSTED research proposal on optimization-based cooperative control of autonomous vehicle fleets over wireless communication networks
+description: Accepted NAFOSTED research project on optimization-based cooperative control of autonomous vehicle fleets over wireless communication networks
 img: assets/img/nafosted-cooperative-autonomous-vehicle-fleet.png
-category: research proposal
+category: research
 importance: 6
-duration: Submitted Aug. 2026 – Under Review
+duration: Accepted Oct. 2026
 funding: National Foundation for Science and Technology Development (NAFOSTED)
+project_number: NAFOSTED/202/2026/944
 role: Scientific Secretary
 ---
 
 **Cooperative control of an autonomous vehicle fleet integrated with wireless communication networks using optimization algorithms**
 
 - **Funding source:** National Foundation for Science and Technology Development (NAFOSTED)
+- **Project number:** NAFOSTED/202/2026/944
 - **Role:** Scientific Secretary
 - **Initial submission:** 13 August 2026
-- **Current status:** Under review
-- **Review progress:** The proposal passed the first round of peer review; the revised response report was submitted on 7 October 2026
+- **Current status:** Accepted
+- **Approval decision:** Decision No. 844/QĐ-NAFOSTED, dated 19 October 2026
+- **Review history:** The proposal passed the first round of peer review, and the revised response report was submitted on 7 October 2026
 
 ## Project summary
 
