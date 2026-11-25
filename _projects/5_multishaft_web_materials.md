@@ -4,7 +4,7 @@ title: "Motion Control for Multi-Shaft Drive Systems"
 description: HUST research project on adaptive and fractional-order sliding-mode control for multi-shaft roll-to-roll systems, extended to automotive traction and wheel-slip control
 img: assets/img/multishaft-web-materials.png
 category: research
-importance: 5
+importance: 6
 duration: Jun. 2021 – Sep. 2022
 funding: Hanoi University of Science and Technology
 project_number: T2021-PC-001

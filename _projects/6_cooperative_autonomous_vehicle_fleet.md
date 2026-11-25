@@ -4,7 +4,7 @@ title: Cooperative Control of an Autonomous Vehicle Fleet Integrated with Wirele
 description: Accepted NAFOSTED research project on optimization-based cooperative control of autonomous vehicle fleets over wireless communication networks
 img: assets/img/nafosted-cooperative-autonomous-vehicle-fleet.png
 category: research
-importance: 6
+importance: 1
 duration: Accepted Oct. 2026
 funding: National Foundation for Science and Technology Development (NAFOSTED)
 project_number: NAFOSTED/202/2026/944

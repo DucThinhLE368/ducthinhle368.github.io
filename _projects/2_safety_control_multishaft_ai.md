@@ -4,7 +4,7 @@ title: "Safety Control for Multi-Shaft Systems: An AI Approach"
 description: NAFOSTED national research grant on output-constrained, finite-time, AI/Koopman-assisted control for multi-shaft drive systems under model uncertainties and disturbances
 img: assets/img/nafosted-multishaft-ai.png
 category: research
-importance: 2
+importance: 3
 duration: Apr. 2025 – Present
 funding: National Foundation for Science and Technology Development (NAFOSTED)
 project_number: 107.01-2024.19

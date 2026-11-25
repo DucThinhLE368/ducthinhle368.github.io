@@ -4,7 +4,7 @@ title: Unmanned Subterranean Vehicles with Onboard Manipulator
 description: VINIF-funded project on six-wheeled unmanned subterranean vehicles with an onboard manipulator, robust guidance-and-control, and 3D underground mapping for hazardous mine exploration
 img: assets/img/vinif-subterranean-vehicle.png
 category: research
-importance: 1
+importance: 2
 duration: Dec. 2025 – Present
 funding: Vingroup Innovation Foundation (VINIF)
 project_number: VINIF.2025.DA096

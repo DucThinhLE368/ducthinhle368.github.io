@@ -4,7 +4,7 @@ title: Nonlinear Control for Electric Vehicles
 description: HUST research project on nonlinear trajectory-tracking and traction control for electric vehicles, including bearingless electric drive motors
 img: assets/img/nonlinear-control-ev.png
 category: research
-importance: 4
+importance: 5
 duration: Nov. 2022 – Apr. 2024
 funding: Hanoi University of Science and Technology
 project_number: T2022-PC-003

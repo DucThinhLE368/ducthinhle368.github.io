@@ -4,7 +4,7 @@ title: Control of Non-Contact Drive Systems
 description: HUST research project on fractional-order and disturbance-observer-based control for conical active magnetic bearings and non-contact drive systems
 img: assets/img/non-contact-drive-systems.png
 category: research
-importance: 3
+importance: 4
 duration: Oct. 2023 – Sep. 2025
 funding: Hanoi University of Science and Technology
 project_number: T2023-PC-029
